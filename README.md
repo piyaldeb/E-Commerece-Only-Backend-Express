@@ -32,7 +32,6 @@ ecommerce-backend/
 ├── README.md
 └── server.js
 
-
 Features
 User Authentication: Register, login, and manage user profiles.
 Product Management: CRUD operations for products (admin only).
